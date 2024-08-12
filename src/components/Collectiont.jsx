@@ -52,7 +52,7 @@ function Collectiont() {
             </Grid>
             <Grid item xs={12} md={6}>
                 <img
-                    src={`${process.env.PUBLIC_URL}/main-images/collectionPage-2.png`}
+                    src={`${process.env.PUBLIC_URL}/main-images/SambhraniDhoopCups.png`}
                     alt="craftmanship"
                     className="craft-img"
                 />
